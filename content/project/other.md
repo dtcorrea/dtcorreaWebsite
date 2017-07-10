@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2017-06-10"
 
 # Project title.
 title = "Others"
@@ -16,7 +16,7 @@ image_preview = "pond_cane.jpg"
 tags = ["other"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+#external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
