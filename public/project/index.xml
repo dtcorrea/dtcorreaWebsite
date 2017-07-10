@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on dtcorrea</title>
-    <link>https://example.com/project/</link>
+    <link>https://deciocorrea.netlify.com/project/</link>
     <description>Recent content in Projects on dtcorrea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Adult amphibian microbiome</title>
-      <link>https://example.com/project/frog-microbiome/</link>
+      <link>https://deciocorrea.netlify.com/project/frog-microbiome/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/frog-microbiome/</guid>
+      <guid>https://deciocorrea.netlify.com/project/frog-microbiome/</guid>
       <description>
 
 &lt;h2 id=&#34;unraveling-the-role-of-evolutionary-history-on-skin-and-gut-microbial-communities-of-anuran-amphibians&#34;&gt;Unraveling the Role of Evolutionary History on Skin and Gut Microbial Communities of Anuran Amphibians&lt;/h2&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Others</title>
-      <link>https://example.com/project/other/</link>
+      <link>https://deciocorrea.netlify.com/project/other/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/other/</guid>
+      <guid>https://deciocorrea.netlify.com/project/other/</guid>
       <description>&lt;p&gt;I am very interested in other topics such as community phylogenetics, conservation and disease ecology, topics that I mainly develop in collaboration with other researchers.&lt;/p&gt;
 
 &lt;p&gt;Currently, I am collaborating with &lt;a href=&#34;http://lschiesari.wixsite.com/ecologia-aplicada&#34; target=&#34;_blank&#34;&gt;Dr. Luis Schiesari&lt;/a&gt; in one project exploring the effects of land use change on aquatic metacommunities and another project on the metacommunity structure of rock pools. I am also working with &lt;a href=&#34;http://drdz.wp.txstate.edu/&#34; target=&#34;_blank&#34;&gt;Dr. David Rodriguez&lt;/a&gt; and his group on the distribution and genetics of &lt;em&gt;Batrachochytrium dendrobatidis&lt;/em&gt; in Texas and with &lt;a href=&#34;https://bolnicklab.wordpress.com/&#34; target=&#34;_blank&#34;&gt;Dr. Daniel Bolnick&lt;/a&gt; and his group on parasite infection and threespine stickleback gut microbiome.&lt;/p&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Tadpole microbiome</title>
-      <link>https://example.com/project/tadpole-microbiome/</link>
+      <link>https://deciocorrea.netlify.com/project/tadpole-microbiome/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/tadpole-microbiome/</guid>
+      <guid>https://deciocorrea.netlify.com/project/tadpole-microbiome/</guid>
       <description>&lt;p&gt;Most of my Ph.D. research is with tadpole gut microbiome. At the amphibian community level, I am exploring the relative roles of regional (pond) and local (individual) effects on the gut microbiome of tadpoles (and some salamander larvae) in Brazil and East Texas.&lt;/p&gt;
 
 &lt;p&gt;I am also testing the stability of the tadpole gut microbiome and how it relates to their diet. Tadpole diet is still an unresolved topic, and I am approaching that with new tools such as metabarcoding and stable isotope fingerprinting. Lastly, I am investigating the interplay between diet and microbiome on the performance of tadpoles.&lt;/p&gt;
