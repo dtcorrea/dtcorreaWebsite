@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dtcorrea on dtcorrea</title>
-    <link>/</link>
+    <link>https://example.com/</link>
     <description>Recent content in dtcorrea on dtcorrea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Adult amphibian microbiome</title>
-      <link>/project/frog-microbiome/</link>
+      <link>https://example.com/project/frog-microbiome/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/frog-microbiome/</guid>
+      <guid>https://example.com/project/frog-microbiome/</guid>
       <description>
 
 &lt;h2 id=&#34;unraveling-the-role-of-evolutionary-history-on-skin-and-gut-microbial-communities-of-anuran-amphibians&#34;&gt;Unraveling the Role of Evolutionary History on Skin and Gut Microbial Communities of Anuran Amphibians&lt;/h2&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Others</title>
-      <link>/project/other/</link>
+      <link>https://example.com/project/other/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/other/</guid>
+      <guid>https://example.com/project/other/</guid>
       <description>&lt;p&gt;I am very interested in other topics such as community phylogenetics, conservation and disease ecology, topics that I mainly develop in collaboration with other researchers.&lt;/p&gt;
 
 &lt;p&gt;Currently, I am collaborating with &lt;a href=&#34;http://lschiesari.wixsite.com/ecologia-aplicada&#34; target=&#34;_blank&#34;&gt;Dr. Luis Schiesari&lt;/a&gt; in one project exploring the effects of land use change on aquatic metacommunities and another project on the metacommunity structure of rock pools. I am also working with &lt;a href=&#34;http://drdz.wp.txstate.edu/&#34; target=&#34;_blank&#34;&gt;Dr. David Rodriguez&lt;/a&gt; and his group on the distribution and genetics of &lt;em&gt;Batrachochytrium dendrobatidis&lt;/em&gt; in Texas and with &lt;a href=&#34;https://bolnicklab.wordpress.com/&#34; target=&#34;_blank&#34;&gt;Dr. Daniel Bolnick&lt;/a&gt; and his group on parasite infection and threespine stickleback gut microbiome.&lt;/p&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Tadpole microbiome</title>
-      <link>/project/tadpole-microbiome/</link>
+      <link>https://example.com/project/tadpole-microbiome/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/tadpole-microbiome/</guid>
+      <guid>https://example.com/project/tadpole-microbiome/</guid>
       <description>&lt;p&gt;Most of my Ph.D. research is with tadpole gut microbiome. At the amphibian community level, I am exploring the relative roles of regional (pond) and local (individual) effects on the gut microbiome of tadpoles (and some salamander larvae) in Brazil and East Texas.&lt;/p&gt;
 
 &lt;p&gt;I am also testing the stability of the tadpole gut microbiome and how it relates to their diet. Tadpole diet is still an unresolved topic, and I am approaching that with new tools such as metabarcoding and stable isotope fingerprinting. Lastly, I am investigating the interplay between diet and microbiome on the performance of tadpoles.&lt;/p&gt;
@@ -50,65 +50,65 @@
     
     <item>
       <title>Consequences of agroindustrial sugarcane production to freshwater biodiversity</title>
-      <link>/publication/schiesari-and-correa-2015/</link>
+      <link>https://example.com/publication/schiesari-and-correa-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/schiesari-and-correa-2015/</guid>
+      <guid>https://example.com/publication/schiesari-and-correa-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lizards from Estação Ecológica de Santa Bárbara, a remnant of Cerrado in the state of São Paulo, Brazil</title>
-      <link>/publication/araujo-et-al-2014/</link>
+      <link>https://example.com/publication/araujo-et-al-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/araujo-et-al-2014/</guid>
+      <guid>https://example.com/publication/araujo-et-al-2014/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Partitioning the net effect of host diversity on an emerging amphibian pathogen</title>
-      <link>/publication/becker-et-al-2014/</link>
+      <link>https://example.com/publication/becker-et-al-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/becker-et-al-2014/</guid>
+      <guid>https://example.com/publication/becker-et-al-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One step forward: contrasting the effects of Toe clipping and PIT tagging on frog survival and recapture probability</title>
-      <link>/publication/guimaraes-et-al-2014/</link>
+      <link>https://example.com/publication/guimaraes-et-al-2014/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/guimaraes-et-al-2014/</guid>
+      <guid>https://example.com/publication/guimaraes-et-al-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toe-clipping vital to amphibian research</title>
-      <link>/publication/correa-et-al-2013/</link>
+      <link>https://example.com/publication/correa-et-al-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/correa-et-al-2013/</guid>
+      <guid>https://example.com/publication/correa-et-al-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snake assemblage of Estação Ecológica de Santa Bárbara, SP: a Cerrado remnant in Southeastern Brazil</title>
-      <link>/publication/araujo-et-al-2010/</link>
+      <link>https://example.com/publication/araujo-et-al-2010/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>/publication/araujo-et-al-2010/</guid>
+      <guid>https://example.com/publication/araujo-et-al-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anurans of the Estação Ecológica de Santa Bárbara, a remnant of open Cerrado formations in the state of São Paulo</title>
-      <link>/publication/araujo-et-al-2013/</link>
+      <link>https://example.com/publication/araujo-et-al-2013/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/araujo-et-al-2013/</guid>
+      <guid>https://example.com/publication/araujo-et-al-2013/</guid>
       <description></description>
     </item>
     

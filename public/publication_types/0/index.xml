@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 on dtcorrea</title>
-    <link>/publication_types/0/</link>
+    <link>https://example.com/publication_types/0/</link>
     <description>Recent content in 0 on dtcorrea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Toe-clipping vital to amphibian research</title>
-      <link>/publication/correa-et-al-2013/</link>
+      <link>https://example.com/publication/correa-et-al-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/correa-et-al-2013/</guid>
+      <guid>https://example.com/publication/correa-et-al-2013/</guid>
       <description></description>
     </item>
     
