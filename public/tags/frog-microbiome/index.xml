@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frog Microbiome on dtcorrea</title>
+    <link>/tags/frog-microbiome/</link>
+    <description>Recent content in Frog Microbiome on dtcorrea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Decio Correa</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/frog-microbiome/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adult amphibian microbiome</title>
+      <link>/project/frog-microbiome/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/frog-microbiome/</guid>
+      <description>
+
+&lt;h2 id=&#34;unraveling-the-role-of-evolutionary-history-on-skin-and-gut-microbial-communities-of-anuran-amphibians&#34;&gt;Unraveling the Role of Evolutionary History on Skin and Gut Microbial Communities of Anuran Amphibians&lt;/h2&gt;
+
+&lt;p&gt;I am investigating how skin and gut microbial communities of amphibians relate to their evolutionary history. I sampled anuran amphibians in the Atlantic Forest of Brazil and found that evolutionary history explains most the variation of their skin microbiome but almost nothing of the variation in the gut microbiome.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

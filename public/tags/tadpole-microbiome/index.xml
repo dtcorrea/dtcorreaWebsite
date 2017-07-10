@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tadpole Microbiome on dtcorrea</title>
+    <link>/tags/tadpole-microbiome/</link>
+    <description>Recent content in Tadpole Microbiome on dtcorrea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Decio Correa</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/tadpole-microbiome/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tadpole microbiome</title>
+      <link>/project/tadpole-microbiome/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/tadpole-microbiome/</guid>
+      <description>&lt;p&gt;Most of my Ph.D. research is with tadpole gut microbiome. At the amphibian community level, I am exploring the relative roles of regional (pond) and local (individual) effects on the gut microbiome of tadpoles (and some salamander larvae) in Brazil and East Texas.&lt;/p&gt;
+
+&lt;p&gt;I am also testing the stability of the tadpole gut microbiome and how it relates to their diet. Tadpole diet is still an unresolved topic, and I am approaching that with new tools such as metabarcoding and stable isotope fingerprinting. Lastly, I am investigating the interplay between diet and microbiome on the performance of tadpoles.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
