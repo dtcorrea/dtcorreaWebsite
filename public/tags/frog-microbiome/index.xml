@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frog Microbiome on dtcorrea</title>
-    <link>https://deciocorrea.netlify.com/tags/frog-microbiome/</link>
+    <link>/tags/frog-microbiome/</link>
     <description>Recent content in Frog Microbiome on dtcorrea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Adult amphibian microbiome</title>
-      <link>https://deciocorrea.netlify.com/project/frog-microbiome/</link>
+      <link>/project/frog-microbiome/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://deciocorrea.netlify.com/project/frog-microbiome/</guid>
+      <guid>/project/frog-microbiome/</guid>
       <description>
 
 &lt;h2 id=&#34;unraveling-the-role-of-evolutionary-history-on-skin-and-gut-microbial-communities-of-anuran-amphibians&#34;&gt;Unraveling the Role of Evolutionary History on Skin and Gut Microbial Communities of Anuran Amphibians&lt;/h2&gt;

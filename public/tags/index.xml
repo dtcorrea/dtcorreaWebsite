@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on dtcorrea</title>
-    <link>https://deciocorrea.netlify.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on dtcorrea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,38 +12,38 @@
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://deciocorrea.netlify.com/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://deciocorrea.netlify.com/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Frog Microbiome</title>
-      <link>https://deciocorrea.netlify.com/tags/frog-microbiome/</link>
+      <link>/tags/frog-microbiome/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://deciocorrea.netlify.com/tags/frog-microbiome/</guid>
+      <guid>/tags/frog-microbiome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>https://deciocorrea.netlify.com/tags/other/</link>
+      <link>/tags/other/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://deciocorrea.netlify.com/tags/other/</guid>
+      <guid>/tags/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tadpole Microbiome</title>
-      <link>https://deciocorrea.netlify.com/tags/tadpole-microbiome/</link>
+      <link>/tags/tadpole-microbiome/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://deciocorrea.netlify.com/tags/tadpole-microbiome/</guid>
+      <guid>/tags/tadpole-microbiome/</guid>
       <description></description>
     </item>
     

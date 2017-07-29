@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/project/frog-microbiome/</loc>
+      <loc>/project/frog-microbiome/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/project/other/</loc>
+      <loc>/project/other/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/project/tadpole-microbiome/</loc>
+      <loc>/project/tadpole-microbiome/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/tags/academic/</loc>
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,71 +41,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://deciocorrea.netlify.com/publication/schiesari-and-correa-2015/</loc>
-      <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://deciocorrea.netlify.com/publication/araujo-et-al-2014/</loc>
-      <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://deciocorrea.netlify.com/publication/becker-et-al-2014/</loc>
-      <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://deciocorrea.netlify.com/publication/guimaraes-et-al-2014/</loc>
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://deciocorrea.netlify.com/publication/correa-et-al-2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://deciocorrea.netlify.com/publication/araujo-et-al-2010/</loc>
-      <lastmod>2010-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://deciocorrea.netlify.com/publication_types/0/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -114,34 +50,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/publication_types/1/</loc>
-      <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://deciocorrea.netlify.com/publication/araujo-et-al-2013/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://deciocorrea.netlify.com/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://deciocorrea.netlify.com/tags/frog-microbiome/</loc>
+      <loc>/tags/frog-microbiome/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -151,7 +60,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/tags/other/</loc>
+      <loc>/tags/other/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -161,7 +70,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -171,8 +80,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/publication_types/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+      <loc>/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -181,7 +89,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/tags/tadpole-microbiome/</loc>
+      <loc>/tags/tadpole-microbiome/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -191,7 +99,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -201,7 +109,7 @@
     
     <url>
     
-      <loc>https://deciocorrea.netlify.com/</loc>
+      <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

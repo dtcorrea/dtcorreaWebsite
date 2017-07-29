@@ -2,31 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on dtcorrea</title>
-    <link>https://deciocorrea.netlify.com/publication_types/</link>
+    <link>/publication_types/</link>
     <description>Recent content in Publication_types on dtcorrea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Decio Correa</copyright>
-    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>0</title>
-      <link>https://deciocorrea.netlify.com/publication_types/0/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://deciocorrea.netlify.com/publication_types/0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://deciocorrea.netlify.com/publication_types/1/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://deciocorrea.netlify.com/publication_types/1/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
