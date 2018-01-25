@@ -16,6 +16,8 @@ weight = 60
 
 *Teaching Assistant*
 
+- Ecology (2018) - The University of Texas at Austin
+
 - Limnology and Oceanography (2016, 2017) - The University of Texas at Austin  
 
 - Field Biology (2014, 2015, 2016) - The University of Texas at Austin
